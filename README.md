@@ -4,7 +4,7 @@ Hey , I'm Alaa. I'm passionate about software engineering👨‍💻  I'm curren
 - 🚀 I'm looking to collaborate on innovative projects.
 - 🧠 I'm looking for opportunities in software engineering.
 
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.ahmedtaha.com) -->
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white -->
 ---
 <!-->
 <div align="center">
