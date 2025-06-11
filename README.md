@@ -1,6 +1,6 @@
-Hey , I'm Alaa. I'm passionate about software engineering👨‍💻  I'm currently doing my bachelor degree🎓 in Computer and communication Engineering at Faculty of Engineering, Cairo University🏫.
+Hey , I'm Alaa. I'm passionate about Electronics and Communication engineering👨‍💻  I'm currently doing my bachelor degree🎓 in Computer and Communication Engineering at Faculty of Engineering, Cairo University🏫.
 
-- 🎓 I'm currently learning web dev and problem-solving
+- 🎓 I'm currently learning Verliog  and problem-solving
 - 🚀 I'm looking to collaborate on innovative projects.
 - 🧠 I'm looking for opportunities in software engineering.
 
