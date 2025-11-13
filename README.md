@@ -48,7 +48,6 @@
 ### 🧪 Verification Projects
 | Project | Duration | Technologies |
 |---------|----------|--------------|
-| **Building UVM RAL Environment For Advanced Peripheral Bus** | 09/2025 – 10/2025 | UVM, RAL, SystemVerilog |
 | **UVM Verification on AXI4** | 08/2025 – 09/2025 | UVM, AXI4, QuestaSim, SystemVerilog |
 | **Verification on AXI4-Compliant Memory-Mapped Slave** | 07/2025 – 08/2025 | AXI4, QuestaSim, Verilog |
 
