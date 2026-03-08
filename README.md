@@ -1,83 +1,108 @@
-# 👋 Hello, I'm Alaa Haytham Mahmoud Abdelaziz
+# Alaa Haytham Mahmoud Abdelaziz
 
-🎓 Computer and Communication Engineering Student | 💻 Electronics & Verification Enthusiast  
-📧 alaa.abdelaziz04@eng-st.cu.edu.eg
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa-abdelaziz-3a50b3318/)
-
-
-## 🎓 Education
-
-**Bachelor's Degree in Computer and Communication Engineering**  
-*Cairo University* (Expected 2027)  
-
-## 🔧 Technical Skills
-
-### 🗣️ Languages
-![Verilog](https://img.shields.io/badge/Verilog-000000?style=for-the-plastic&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIGNsYXNzPSJsdWNpZGUgbHVjaWRlLWNpcmN1aXQtYm9hcmQiPjxwYXRoIGQ9Ik0yMiAxOEg2YTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDE2Ii8+PHBhdGggZD0iTTIyIDZ2OGEyIDIgMCAwIDEtMiAyaC02Ii8+PHBhdGggZD0iTTQgMTJoNnY2aC02Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxwYXRoIGQ9Ik0xMiA4djgiLz48L3N2Zz4=)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-000000?style=for-the-plastic&logo=verilog)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-plastic&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-plastic&logo=c-sharp&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-plastic&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-plastic&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-plastic&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-plastic&logo=mysql&logoColor=white)
-
-### 🛠️ Frameworks & Technologies
-![UVM](https://img.shields.io/badge/UVM-000000?style=for-the-plastic&logo=verilog)
-![SVA](https://img.shields.io/badge/SVA-000000?style=for-the-plastic)
-![RAL](https://img.shields.io/badge/RAL-000000?style=for-the-plastic)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-plastic&logo=.net&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-plastic&logo=bootstrap&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-000000?style=for-the-plastic&logo=dotnet&logoColor=white)
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-plastic&logo=windows&logoColor=white)
-
-### 🔨 Tools
-![QuestaSim](https://img.shields.io/badge/QuestaSim-FF0000?style=for-the-plastic&logo=synopsys&logoColor=white)
-![ModelSim](https://img.shields.io/badge/ModelSim-FF0000?style=for-the-plastic&logo=synopsys&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-FF0000?style=for-the-plastic&logo=xilinx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-plastic&logo=github&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-plastic&logo=stmicroelectronics&logoColor=white)
-
-## 🚀 Projects
-
-### 🧪 Verification Projects
-| Project | Duration | Technologies |
-|---------|----------|--------------|
-| **UVM Verification on AXI4** | 08/2025 – 09/2025 | UVM, AXI4, QuestaSim, SystemVerilog |
-| **Verification on AXI4-Compliant Memory-Mapped Slave** | 07/2025 – 08/2025 | AXI4, QuestaSim, Verilog |
-
-### 💻 Digital Design Projects
-| Project | Duration | Technologies |
-|---------|----------|--------------|
-| **32-Bit Single-Cycle RISC-V Processor** | 07/2025 – 08/2025 | Verilog, Vivado, RISC-V |
-| **2-Bit Binary Calculator** | 03/2024 – 04/2024 | Verilog, Logic Design |
-
-### 🖥️ Software Projects
-| Project | Duration | Technologies |
-|---------|----------|--------------|
-| **Process Scheduler - Operating Systems** | 04/2025 – 05/2025 | C, Linux, CPU Scheduling Algorithms |
-| **Restaurant Management System** | 10/2024 – 12/2024 | .NET, C#, Windows Forms, MVC |
-| **Smartwatch Desk Clock (STM32 - Assembly)** | 10/2024 – 12/2024 | ARM Assembly, STM32, I2C |
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaHaytham58&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaHaytham58&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-## 🌟 Currently
-
-- 🎓 Pursuing my Bachelor's degree in Computer and Communication Engineering at Cairo University
-- 📚 Learning Verilog, SystemVerilog, and advanced problem-solving techniques
-- 🤝 Looking to collaborate on innovative electronics and software projects
-- 🔍 Seeking opportunities in software engineering and digital design verification
+**Computer & Communication Engineering Student** — building at the intersection of digital hardware verification, embedded systems, and software engineering.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=AlaaHaytham58&style=for-the-badge)
+## About Me
+
+- 🎓 Third-year CCE student at **Cairo University** (Expected 2027), passionate about hardware verification and systems programming.
+- 🔬 Actively working in **Digital Design Verification** — UVM, SystemVerilog, AXI4, and functional coverage methodologies.
+- 🤖 Hands-on experience with **AI/LLM-based applications** — RAG pipelines, neural style transfer, and intelligent test automation.
+- 🛠️ Build full-stack software alongside low-level embedded and RTL projects — from STM32 firmware to React front-ends.
+- 🏛️ **IEEE Digital Verification Member** — conducted technical workshops on SystemVerilog, SVA, and testbench development.
+
+---
+
+## Skills & Technologies
+
+**Hardware & Verification**
+`SystemVerilog` `Verilog` `UVM` `SVA` `RAL` `AXI4` `APB` `QuestaSim` `ModelSim` `Vivado`
+
+**Programming Languages**
+`C` `C++` `C#` `Python` `Java` `JavaScript` `TypeScript` `MATLAB` `SQL` `HTML/CSS`
+
+**Frameworks & Tools**
+`React` `Tailwind CSS` `.NET (Windows Forms, MVC)` `ROS` `Lex & Yacc` `REST APIs` `Git` `GitHub`
+
+**AI & Machine Learning**
+`LLMs` `RAG (Retrieval-Augmented Generation)` `FAISS` `Prompt Engineering` `Neural Style Transfer` `Vector Embeddings`
+
+**Systems & Embedded**
+`STM32` `ARM Assembly` `Embedded C` `Linux` `IPC (Message Queues, Shared Memory)` `I2C` `UART` `PWM`
+
+---
+
+## Featured Projects
+
+### 🔬 Verification
+
+**UVM Verification Environment for AXI4** · `SystemVerilog` `UVM` `QuestaSim`
+> Built a complete UVM environment for an AXI4 memory-mapped IP. Achieved high functional coverage via constrained-random testing, assertions, and scoreboarding.
+
+
+**AXI4-Compliant Memory-Mapped Slave Verification** · `SystemVerilog` `QuestaSim`
+> Verified burst read/write transactions and AXI4 handshake mechanisms for a protocol-compliant slave interface.
+
+---
+
+### ⚙️ Digital Design
+
+**5-Stage Pipelined Von-Neumann Processor** · `VHDL`
+> Implemented a full 32-bit pipelined CPU (Fetch → Decode → Execute → Memory → Write-back) supporting a custom ISA with arithmetic, logic, stack, and control flow instructions.
+
+**32-Bit Single-Cycle RISC-V Processor** · `Verilog` `Vivado`
+> Designed and synthesized an RV32I processor supporting base instructions. RTL includes ALU, Register File, Control Unit, and PC Logic. Validated via FPGA synthesis and timing analysis.
+
+---
+
+### 🤖 AI & Software
+
+**LLM-Based Self-Healing Web Testing Framework** · `Python` `LLMs` `Playwright`
+> Built an AI-driven E2E testing agent using LLMs for dynamic DOM exploration, test scenario generation, and self-healing test execution. Modular architecture: browser manager, memory agent, and LLM reasoning pipeline.
+
+**Multi-Robot Exploration & Map Merging System** · `ROS` `Python` `LiDAR`
+> Designed an autonomous multi-robot exploration system using AgileX LIMO PRO robots. Each robot built partial maps independently; a global merging module aggregated them. Validated in Gazebo/RViz and deployed on real hardware.
+
+**Simple Programming Language Compiler** · `Lex` `Yacc` `C`
+> Designed a full compiler from scratch: lexical analyzer, syntax parser, symbol table, semantic analyzer, and intermediate code generation (quadruples). Includes type checking, scope validation, and error recovery.
+
+**Real-Time Collaborative Text Editor** · `Java` `Sockets`
+> Multi-user text editor with client-server architecture and real-time document synchronization via socket programming.
+
+**Process Scheduler Simulator** · `C` `Linux`
+> Linux-based CPU scheduling simulator implementing HPF, SRTN, and Round Robin using IPC. Extended with a buddy memory allocation scheme and real-time memory logging.
+
+---
+
+### 🖥️ Embedded
+
+**Smart Parking System** · `STM32` `Embedded C`
+> Microcontroller-based parking automation with IR/Ultrasonic sensors, PWM servo control, UART, and LCD. Interrupt-driven firmware for real-time slot management and gate control.
+
+**Smartwatch Desk Clock** · `STM32` `ARM Assembly` `I2C`
+> Feature-rich desk clock (timer, stopwatch, alarm, temperature/humidity) built entirely in ARM Assembly on STM32F103C8T6. TFT display interface and buzzer notifications.
+
+---
+
+
+## Currently Learning
+
+- React & full-stack development (SoundCloud-inspired streaming platform)
+- Compiler design — Lex, Yacc, and intermediate code generation
+- Advanced UVM methodologies and coverage closure techniques
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa-abdelaziz-3a50b3318/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlaaHaytham58)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alaa.abdelaziz04@eng-st.cu.edu.eg)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlaaHaytham58&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaHaytham58&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" />
+</div>
