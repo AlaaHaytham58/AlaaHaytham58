@@ -6,7 +6,7 @@
 
 ## About Me
 
-- 🎓 Third-year CCE student at **Cairo University** (Expected 2027), passionate about hardware verification and systems programming.
+- 🎓 Third-year CCE student at **Cairo University** و passionate about webdevelopment and AI g.
 - 🔬 Actively working in **Digital Design Verification** — UVM, SystemVerilog, AXI4, and functional coverage methodologies.
 - 🤖 Hands-on experience with **AI/LLM-based applications** — RAG pipelines, neural style transfer, and intelligent test automation.
 - 🛠️ Build full-stack software alongside low-level embedded and RTL projects — from STM32 firmware to React front-ends.
@@ -16,8 +16,6 @@
 
 ## Skills & Technologies
 
-**Hardware & Verification**
-`SystemVerilog` `Verilog` `UVM` `SVA` `RAL` `AXI4` `APB` `QuestaSim` `ModelSim` `Vivado`
 
 **Programming Languages**
 `C` `C++` `C#` `Python` `Java` `JavaScript` `TypeScript` `MATLAB` `SQL` `HTML/CSS`
@@ -28,12 +26,34 @@
 **AI & Machine Learning**
 `LLMs` `RAG (Retrieval-Augmented Generation)` `FAISS` `Prompt Engineering` `Neural Style Transfer` `Vector Embeddings`
 
+**Hardware & Verification**
+`SystemVerilog` `Verilog` `UVM` `SVA` `RAL` `AXI4` `APB` `QuestaSim` `ModelSim` `Vivado`
+
 **Systems & Embedded**
 `STM32` `ARM Assembly` `Embedded C` `Linux` `IPC (Message Queues, Shared Memory)` `I2C` `UART` `PWM`
 
 ---
 
 ## Featured Projects
+
+### 🤖 AI & Software
+
+**LLM-Based Self-Healing Web Testing Framework** · `Python` `LLMs` `Playwright`
+> Built an AI-driven E2E testing agent using LLMs for dynamic DOM exploration, test scenario generation, and self-healing test execution. Modular architecture: browser manager, memory agent, and LLM reasoning pipeline.
+
+**Multi-Robot Exploration & Map Merging System** · `ROS` `Python` `LiDAR`
+> Designed an autonomous multi-robot exploration system using AgileX LIMO PRO robots. Each robot built partial maps independently; a global merging module aggregated them. Validated in Gazebo/RViz and deployed on real hardware.
+
+**Simple Programming Language Compiler** · `Lex` `Yacc` `C`
+> Designed a full compiler from scratch: lexical analyzer, syntax parser, symbol table, semantic analyzer, and intermediate code generation (quadruples). Includes type checking, scope validation, and error recovery.
+
+**Real-Time Collaborative Text Editor** · `Java` `Sockets`
+> Multi-user text editor with client-server architecture and real-time document synchronization via socket programming.
+
+**Process Scheduler Simulator** · `C` `Linux`
+> Linux-based CPU scheduling simulator implementing HPF, SRTN, and Round Robin using IPC. Extended with a buddy memory allocation scheme and real-time memory logging.
+
+---
 
 ### 🔬 Verification
 
@@ -53,25 +73,6 @@
 
 **32-Bit Single-Cycle RISC-V Processor** · `Verilog` `Vivado`
 > Designed and synthesized an RV32I processor supporting base instructions. RTL includes ALU, Register File, Control Unit, and PC Logic. Validated via FPGA synthesis and timing analysis.
-
----
-
-### 🤖 AI & Software
-
-**LLM-Based Self-Healing Web Testing Framework** · `Python` `LLMs` `Playwright`
-> Built an AI-driven E2E testing agent using LLMs for dynamic DOM exploration, test scenario generation, and self-healing test execution. Modular architecture: browser manager, memory agent, and LLM reasoning pipeline.
-
-**Multi-Robot Exploration & Map Merging System** · `ROS` `Python` `LiDAR`
-> Designed an autonomous multi-robot exploration system using AgileX LIMO PRO robots. Each robot built partial maps independently; a global merging module aggregated them. Validated in Gazebo/RViz and deployed on real hardware.
-
-**Simple Programming Language Compiler** · `Lex` `Yacc` `C`
-> Designed a full compiler from scratch: lexical analyzer, syntax parser, symbol table, semantic analyzer, and intermediate code generation (quadruples). Includes type checking, scope validation, and error recovery.
-
-**Real-Time Collaborative Text Editor** · `Java` `Sockets`
-> Multi-user text editor with client-server architecture and real-time document synchronization via socket programming.
-
-**Process Scheduler Simulator** · `C` `Linux`
-> Linux-based CPU scheduling simulator implementing HPF, SRTN, and Round Robin using IPC. Extended with a buddy memory allocation scheme and real-time memory logging.
 
 ---
 
