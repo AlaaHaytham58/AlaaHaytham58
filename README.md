@@ -1,109 +1,316 @@
-# Alaa Haytham Mahmoud Abdelaziz
 
-**Computer & Communication Engineering Student** — building at the intersection of digital hardware verification, embedded systems, and software engineering.
+<!--
+  ══════════════════════════════════════════════════════════════════
+  README.md — GitHub Profile
+  Owner: Alaa Haytham Mahmoud Abdelaziz
+  ------------------------------------------------------------------
+  SETUP — DO THIS FIRST:
+  1. Create a public repo named exactly "AlaaHaytham58" (your username).
+  2. Inside it, create a folder "assets/" and add the file "banner.svg"
+     (provided alongside this README) to assets/banner.svg.
+  3. Commit both files to the repo root. GitHub will then render
+     assets/banner.svg as a genuine, repo-owned animated SVG —
+     no third-party generator call needed for the hero banner.
 
----
-
-## About Me
-
-- 🎓 Third-year CCE student at **Cairo University** و passionate about webdevelopment and AI g.
-- 🔬 Actively working in **Digital Design Verification** — UVM, SystemVerilog, AXI4, and functional coverage methodologies.
-- 🤖 Hands-on experience with **AI/LLM-based applications** — RAG pipelines, neural style transfer, and intelligent test automation.
-- 🛠️ Build full-stack software alongside low-level embedded and RTL projects — from STM32 firmware to React front-ends.
-- 🏛️ **IEEE Digital Verification Member** — conducted technical workshops on SystemVerilog, SVA, and testbench development.
-
----
-
-## Skills & Technologies
-
-
-**Programming Languages**
-`C` `C++` `C#` `Python` `Java` `JavaScript` `TypeScript` `MATLAB` `SQL` `HTML/CSS`
-
-**Frameworks & Tools**
-`React` `Tailwind CSS` `.NET (Windows Forms, MVC)` `ROS` `Lex & Yacc` `REST APIs` `Git` `GitHub`
-
-**AI & Machine Learning**
-`LLMs` `RAG (Retrieval-Augmented Generation)` `FAISS` `Prompt Engineering` `Neural Style Transfer` `Vector Embeddings`
-
-**Hardware & Verification**
-`SystemVerilog` `Verilog` `UVM` `SVA` `RAL` `AXI4` `APB` `QuestaSim` `ModelSim` `Vivado`
-
-**Systems & Embedded**
-`STM32` `ARM Assembly` `Embedded C` `Linux` `IPC (Message Queues, Shared Memory)` `I2C` `UART` `PWM`
-
----
-
-## Featured Projects
-
-### 🤖 AI & Software
-
-**LLM-Based Self-Healing Web Testing Framework** · `Python` `LLMs` `Playwright`
-> Built an AI-driven E2E testing agent using LLMs for dynamic DOM exploration, test scenario generation, and self-healing test execution. Modular architecture: browser manager, memory agent, and LLM reasoning pipeline.
-
-**Multi-Robot Exploration & Map Merging System** · `ROS` `Python` `LiDAR`
-> Designed an autonomous multi-robot exploration system using AgileX LIMO PRO robots. Each robot built partial maps independently; a global merging module aggregated them. Validated in Gazebo/RViz and deployed on real hardware.
-
-**Simple Programming Language Compiler** · `Lex` `Yacc` `C`
-> Designed a full compiler from scratch: lexical analyzer, syntax parser, symbol table, semantic analyzer, and intermediate code generation (quadruples). Includes type checking, scope validation, and error recovery.
-
-**Real-Time Collaborative Text Editor** · `Java` `Sockets`
-> Multi-user text editor with client-server architecture and real-time document synchronization via socket programming.
-
-**Process Scheduler Simulator** · `C` `Linux`
-> Linux-based CPU scheduling simulator implementing HPF, SRTN, and Round Robin using IPC. Extended with a buddy memory allocation scheme and real-time memory logging.
-
----
-
-### 🔬 Verification
-
-**UVM Verification Environment for AXI4** · `SystemVerilog` `UVM` `QuestaSim`
-> Built a complete UVM environment for an AXI4 memory-mapped IP. Achieved high functional coverage via constrained-random testing, assertions, and scoreboarding.
-
-
-**AXI4-Compliant Memory-Mapped Slave Verification** · `SystemVerilog` `QuestaSim`
-> Verified burst read/write transactions and AXI4 handshake mechanisms for a protocol-compliant slave interface.
-
----
-
-### ⚙️ Digital Design
-
-**5-Stage Pipelined Von-Neumann Processor** · `VHDL`
-> Implemented a full 32-bit pipelined CPU (Fetch → Decode → Execute → Memory → Write-back) supporting a custom ISA with arithmetic, logic, stack, and control flow instructions.
-
-**32-Bit Single-Cycle RISC-V Processor** · `Verilog` `Vivado`
-> Designed and synthesized an RV32I processor supporting base instructions. RTL includes ALU, Register File, Control Unit, and PC Logic. Validated via FPGA synthesis and timing analysis.
-
----
-
-### 🖥️ Embedded
-
-**Smart Parking System** · `STM32` `Embedded C`
-> Microcontroller-based parking automation with IR/Ultrasonic sensors, PWM servo control, UART, and LCD. Interrupt-driven firmware for real-time slot management and gate control.
-
-**Smartwatch Desk Clock** · `STM32` `ARM Assembly` `I2C`
-> Feature-rich desk clock (timer, stopwatch, alarm, temperature/humidity) built entirely in ARM Assembly on STM32F103C8T6. TFT display interface and buzzer notifications.
-
----
-
-
-## Currently Learning
-
-- React & full-stack development (SoundCloud-inspired streaming platform)
-- Compiler design — Lex, Yacc, and intermediate code generation
-- Advanced UVM methodologies and coverage closure techniques
-
----
-
-## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alaa-abdelaziz-3a50b3318/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AlaaHaytham58)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alaa.abdelaziz04@eng-st.cu.edu.eg)
-
----
+  HOW TO CUSTOMIZE:
+  - Replace "AlaaHaytham58" with your GitHub username anywhere it appears
+    (stats widgets, streak widgets, trophy widgets).
+  - Edit assets/banner.svg directly to change the title, rotating
+    subtitle lines, or colors — see comments inside that file.
+  - Update social links in the CONTACT section.
+  - Palette used throughout: primary #6C63FF, accent #00D9FF,
+    background #0D1117. Change the color=/theme= query params on
+    the stats widgets to re-skin everything in one pass.
+  - Note: the GitHub Stats / Streak / Activity Graph / Trophy widgets
+    pull live data from your account, so they must stay as external
+    services — a static local SVG can't reflect live commit history.
+    Everything else (the hero banner) is fully self-hosted.
+  ══════════════════════════════════════════════════════════════════
+-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlaaHaytham58&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlaaHaytham58&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" />
+
+<!-- ============ HERO / BUILT-IN ANIMATED BANNER (self-hosted SVG, no external API) ============ -->
+<img width="100%" src="./assets/banner.svg" alt="Alaa Haytham Abdelaziz" />
+
+<br/>
+
+<!-- ============ SOCIAL BADGES ============ -->
+<a href="https://linkedin.com/in/alaa-abdelaziz-3a50b3318/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alaa.abdelaziz04@eng-st.cu.edu.eg">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/AlaaHaytham58">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<!-- ============ PROFILE VIEW COUNTER ============ -->
+<img src="https://komarev.com/ghpvc/?username=AlaaHaytham58&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&style=for-the-badge&label=Followers&query=followers&url=https://api.github.com/users/AlaaHaytham58" alt="followers"/>
+
 </div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     ABOUT ME
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">About Me</h2>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
+\`\`\`yaml
+alaa:
+  role: "Computer & Communication Engineering Student"
+  university: "Cairo University"
+  location: "Cairo, Egypt"
+  focus:
+    - Full-Stack Web Development (React / .NET)
+    - Applied AI: RAG pipelines, LLM tooling, embeddings
+    - Digital Design Verification: UVM · SystemVerilog · AXI4
+    - Embedded Systems: STM32 · ARM Assembly
+\`\`\`
+
+</td>
+<td width="45%" valign="top">
+
+- Third-year CCE student at **Cairo University**
+- Full-stack developer — **React · Tailwind · .NET · PostgreSQL**
+- Building **RAG pipelines**, self-healing test agents, and LLM tooling
+- Multi-robot exploration systems on **ROS**
+- **IEEE Digital Verification** member and workshop instructor
+- Reach me at **alaa.abdelaziz04@eng-st.cu.edu.eg**
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     TECH STACK
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">Tech Stack</h2>
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,matlab,html,css&theme=dark" />
+
+**Frameworks & Tools**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,dotnet,git,github,postgres,vscode,linux&theme=dark" />
+
+**AI / ML**
+
+![LLMs](https://img.shields.io/badge/LLMs-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-00D9FF?style=for-the-badge&logo=databricks&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-6C63FF?style=for-the-badge&logo=meta&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00D9FF?style=for-the-badge&logo=chatbot&logoColor=white)
+
+**Hardware & Verification**
+
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E1E2E?style=for-the-badge&logo=v&logoColor=white)
+![UVM](https://img.shields.io/badge/UVM-6C63FF?style=for-the-badge)
+![AXI4](https://img.shields.io/badge/AXI4-00D9FF?style=for-the-badge)
+![QuestaSim](https://img.shields.io/badge/QuestaSim-1E1E2E?style=for-the-badge)
+![Vivado](https://img.shields.io/badge/Vivado-A31F34?style=for-the-badge&logo=xilinx&logoColor=white)
+
+**Embedded Systems**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-6C63FF?style=for-the-badge)
+![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     FEATURED PROJECTS
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">Featured Projects</h2>
+
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Social Streaming Platform
+**Front-End Lead** · \`React\` \`Tailwind CSS\`
+> 50+ responsive components across 12 feature modules (playback, social feed, messaging). Integrated 35+ REST endpoints; optimized load times via lazy loading and code splitting.
+
+</td>
+<td width="50%" valign="top">
+
+### Self-Healing Web Testing Framework
+**Architect & Lead** · \`Python\` \`LLMs\` \`Playwright\`
+> AI-driven E2E testing agent with self-healing selectors — **~85% recovery rate** on UI changes, cutting manual regression time by 10 hrs/week across 3+ LLM providers.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Multi-Robot Exploration & Map Merging
+\`ROS\` \`Python\` \`LiDAR\`
+> Autonomous exploration stack on AgileX LIMO PRO robots. Fused LiDAR, odometry, and depth data into a global map with **<5% drift**, validated in Gazebo/RViz and on real hardware.
+
+</td>
+<td width="50%" valign="top">
+
+### Simple Programming Language Compiler
+\`Lex\` \`Yacc\` \`C\`
+> Complete compiler from scratch: lexer, parser, symbol table, semantic analyzer, and quadruple-based intermediate code generation with type and scope checking.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Neural Style Transfer
+\`Python\` \`VGG-19\`
+> Blended content and style images via a pre-trained VGG-19 network, tuning loss weights across 500+ iterations for artwork-quality renders.
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+*More projects — real-time collaborative editor, CPU scheduler simulator, 5-stage pipelined CPU, RV32I processor, smart parking system — live on my pinned repos below.*
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     EXPERIENCE (TIMELINE)
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">Experience</h2>
+
+<div align="center">
+
+| Period | Role | Organization |
+|:---|:---|:---|
+<!--| 07/2026 – 09/2026 | Full-Stack Intern (.NET · PostgreSQL) | **SilverKey Technologies** | -->
+| 10/2025 – 12/2025 | Generative AI Intern — shipped 3 production RAG apps | **Tips Hindawi** |
+| 08/2025 – 09/2025 | IT Infrastructure Intern — 160+ hrs across Network/DB/Ops | **Banque Misr** |
+| 02/2025 – Present | Digital Verification Member — SV/UVM/SVA workshops | **IEEE** |
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     GITHUB STATS
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AlaaHaytham58&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=6C63FF&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlaaHaytham58&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlaaHaytham58&hide_border=true&theme=tokyonight&background=0D1117&ring=6C63FF&fire=00D9FF&currStreakLabel=00D9FF" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaHaytham58&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=6C63FF&point=ffffff&hide_border=true" width="90%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlaaHaytham58&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     CURRENTLY LEARNING
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">Currently Learning</h2>
+
+<div align="center">
+
+![Progress](https://img.shields.io/badge/React%20%26%20Full--Stack-In%20Progress-6C63FF?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Compiler%20Design-In%20Progress-00D9FF?style=for-the-badge)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     INTERESTS
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">Interests & Specializations</h2>
+
+<div align="center">
+
+\`LLM Applications & RAG\` • \`Full-Stack Web Dev\` • \`Robotics (ROS)\` • \`Compiler Construction\`
+\`Digital Design Verification\` • \`RTL & Processor Design\` • \`Embedded Systems\` • \`Technical Mentorship\`
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════════════════
+     CONTACT
+     ══════════════════════════════════════════════════════════════ -->
+<h2 align="center">Let's Connect</h2>
+
+<div align="center">
+
+I'm always open to conversations about verification, AI engineering, or interesting side projects.
+Reach out — I usually reply fast.
+
+<a href="https://linkedin.com/in/alaa-abdelaziz-3a50b3318/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alaa.abdelaziz04@eng-st.cu.edu.eg">
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<!--
+  ══════════════════════════════════════════════════════════════════
+  ASSET & VISUAL RECOMMENDATIONS (not rendered — for your reference)
+  ------------------------------------------------------------------
+  1. Profile photo: use a clean, well-lit headshot or a simple
+     geometric avatar in the indigo/cyan palette for brand consistency.
+  2. Pin 6 repos on your GitHub profile (Settings -> Customize pins):
+     ideally 3 software/AI projects + 3 hardware/verification projects
+     to show range at a glance.
+  3. assets/banner.svg is plain SVG + SMIL animation — edit the text,
+     colors, or timing directly in that file, no build step required.
+  4. Optional: add a short GIF demo (<10MB) of the streaming platform
+     or the self-healing test agent under its project entry — GitHub
+     renders inline GIFs directly in the README.
+  5. Consider a small status line near the hero (e.g. "Open to SWE / AI
+     internships") if actively job-hunting.
+  6. The projects table currently has an odd number of entries (5),
+     so the last row has one filled cell and one empty cell — this is
+     intentional to keep the 2-column grid aligned. Add a 6th project
+     to that empty slot, or delete the empty <td></td> pair if you'd
+     rather let "Neural Style Transfer" span the full row width.
+
+  FUTURE ENHANCEMENTS
+  ------------------------------------------------------------------
+  - Add a GitHub Action (e.g. platane/snk) for an animated snake
+     contribution graph — another genuinely "built-in" animated asset
+     since it's generated and committed into your own repo.
+  - Add a WakaTime badge if you track coding time.
+  - Once repos are pinned, add individual README badges per repo
+     (build status, license, last commit) for a consistent portfolio feel.
+  ══════════════════════════════════════════════════════════════════
+-->
