@@ -31,7 +31,14 @@
 <div align="center">
 
 <!-- ============ HERO / BUILT-IN ANIMATED BANNER (self-hosted SVG, no external API) ============ -->
-<img width="100%" src="./assets/banner.svg" alt="Alaa Haytham Abdelaziz" />
+
+<p align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,50:F48FB1,100:EC407A&text=Alaa%20Haytham&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20%7C%20Digital%20Design&descAlignY=58&descSize=22" 
+    width="100%" 
+  />
+</p>
+```
 
 <br/>
 
@@ -195,19 +202,17 @@ alaa:
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════════════
-     EXPERIENCE (TIMELINE)
-     ══════════════════════════════════════════════════════════════ -->
-<h2 align="center">Experience</h2>
+
 
 <div align="center">
 
 | Period | Role | Organization |
 |:---|:---|:---|
-<!--| 07/2026 – 09/2026 | Full-Stack Intern (.NET · PostgreSQL) | **SilverKey Technologies** | -->
 | 10/2025 – 12/2025 | Generative AI Intern — shipped 3 production RAG apps | **Tips Hindawi** |
 | 08/2025 – 09/2025 | IT Infrastructure Intern — 160+ hrs across Network/DB/Ops | **Banque Misr** |
 | 02/2025 – Present | Digital Verification Member — SV/UVM/SVA workshops | **IEEE** |
+<!--| 07/2026 – 09/2026 | Full-Stack Intern (.NET · PostgreSQL) | **SilverKey Technologies** | -->
+
 
 </div>
 
