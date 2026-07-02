@@ -28,37 +28,49 @@
   ══════════════════════════════════════════════════════════════════
 -->
 
-<div align="center">
-
-<!-- ============ HERO / BUILT-IN ANIMATED BANNER (self-hosted SVG, no external API) ============ -->
-
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:F8BBD0,50:F48FB1,100:EC407A&text=Alaa%20Haytham&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20%7C%20Digital%20Design&descAlignY=58&descSize=22" 
-    width="100%" 
+    src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:C77DFF,25:E0AAFF,50:F8A5C2,75:FFAFCC,100:BDE0FE&text=Alaa%20Haytham&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20✦%20AI%20✦%20Digital%20Design&descAlignY=57&descSize=24"
+    width="100%"
   />
 </p>
-```
 
-<br/>
+<div align="center">
 
-<!-- ============ SOCIAL BADGES ============ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=EFB8FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;AI+Engineer;Digital+Design+Enthusiast;Building+Cute+Things+with+Code+%E2%9C%A8" />
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/alaa-abdelaziz-3a50b3318/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-D291FF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:alaa.abdelaziz04@eng-st.cu.edu.eg">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-FF8FAB?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/AlaaHaytham58">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-C77DFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=AlaaHaytham58&label=Profile%20Views&color=E0AAFF&style=for-the-badge" />
+
+</div>
+
+
+<div align="center">
+
+<!-- ============ HERO / BUILT-IN ANIMATED BANNER (self-hosted SVG, no external API) ============ -->
+
+
+<br/>
+
+
+<br/>
+
 <!-- ============ PROFILE VIEW COUNTER ============ -->
-<img src="https://komarev.com/ghpvc/?username=AlaaHaytham58&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="profile views" />
-&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?color=00D9FF&style=for-the-badge&label=Followers&query=followers&url=https://api.github.com/users/AlaaHaytham58" alt="followers"/>
 
 </div>
 
